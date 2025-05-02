@@ -1,4 +1,4 @@
-![Banner de Elis Petro](![Image](https://github.com/user-attachments/assets/3de2fe21-4cc0-41f0-a3f1-fc74797df622)
+![Image](https://github.com/user-attachments/assets/3de2fe21-4cc0-41f0-a3f1-fc74797df622)
 
 <img alt="Hola con la manito" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Elis Petro</h2>
 
