@@ -17,7 +17,8 @@
 ### 🛠️ &nbsp;Tech Stack
 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="300"/>
+<img alt="Night Coding" src="https://github.com/user-attachments/assets/ad7e2f6e-9b09-4ca3-955d-1d13f27ba6d1" align="right" width="250"/>
+
 
 ### 🛠️ &nbsp;Tech Stack
 
